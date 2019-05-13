@@ -46,10 +46,10 @@ Create a `settings` directory and move settings.py into this directory and renam
     
     Your settings directory should look like this:
     
-    ```
+```
     settings
      - __init__.py
      - base.py
      - dev.py
      - prod.py
-     ```
+```
